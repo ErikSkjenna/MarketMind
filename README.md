@@ -49,16 +49,10 @@ The main objective of MarketMind is to provide users with a centralized, clear a
 
 ## Architecture anticipée (Expected/anticipated architecture) 
 
-- Front end :
--     Main UI provided to the user
-- Back end
--     Handles AI-related functionality, financial/news data retrieval, data processing, and communication with external APIs.
--     Useful tools for training and making predictions:
--             https://auto.gluon.ai/stable/index.html
--             https://optuna.readthedocs.io/en/stable/
--     Useful tools for pulling recent stock data
--             https://lmstudio.ai/
--             Feel free to add more... 
+- Front end : Main UI provided to the user
+- Back end: Handles AI-related functionality, financial/news data retrieval, data processing, and communication with external APIs.
+- Useful tools for training and making predictions: https://auto.gluon.ai/stable/index.html and https://optuna.readthedocs.io/en/stable/
+- Useful tools for pulling recent stock data: https://lmstudio.ai/
 
 ## Technologies envisagées 
 
