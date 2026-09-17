@@ -18,20 +18,16 @@
 
 ## Description (Outline) 
 
-MarketMind est un projet de plateforme financière utilisant l’intelligence artificielle pour analyser les nouvelles et les tendances du marché boursier. 
-
-Plus de détails seront ajoutés au fur et à mesure de la conception du projet. 
+- MarketMind est un projet de plateforme financière utilisant l’intelligence artificielle pour analyser les nouvelles et les tendances du marché boursier.
+- Plus de détails seront ajoutés au fur et à mesure de la conception du projet. 
 
 
 ## Objectif (Objectives: benefit to customer, key things to accomplish, criteria for success): offrir aux clients une façon centralise de consulter les informations liées aux marches boursières. L’IA va facilite la consultation de plusieurs nouvelles et informations financière disponible. Le système devrait permettre de :  
 
-Réduire le temps nécessaire pour trouver des informations financières 
-
-Présenter les informations de manière claire et facile a comprendre pour les utilisateurs 
-
-Obtenir des analyse générées a partir des informations disponibles 
-
-Suivre les tendances du marché 
+- Réduire le temps nécessaire pour trouver des informations financières
+- Présenter les informations de manière claire et facile a comprendre pour les utilisateurs
+- Obtenir des analyse générées a partir des informations disponibles
+- Suivre les tendances du marché 
 
 ## Voici unes listes d’objectif principales à accomplir :  
 
